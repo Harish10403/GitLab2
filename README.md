@@ -1,2 +1,3 @@
 # GitLab2
-# sample lab project
+# sample lab exercise
+
